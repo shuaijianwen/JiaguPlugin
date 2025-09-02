@@ -1,3 +1,5 @@
+# 360加固免费版本不能使用了，所以不在维护了
+
 # 360加固插件 [![JiaguPlugin](https://jitpack.io/v/com.github.keepLove/android-jiagu-plugin.svg)](https://jitpack.io/#com.github.keepLove/android-jiagu-plugin)
 
 ## Dependency
